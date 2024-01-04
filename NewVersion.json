@@ -1,0 +1,14 @@
+{
+    "version": "1.1.0",
+    "info": [
+        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n- Add feature 1\n- Add feature 2\n- Fix slow ghost error\nYou can download the plugin upgrade at the link below, unzip and overwrite the files into the plugins folder in phBot.\nOnce done, need to restart phBot to immediately use the updated features.\nPlease press Upload Plugin button or open the link below to download the plugin ChatControl:\nhttps://drive.google.com/drive/folders/%s\nNote: If there is an error during the upgrade process, please contact the author so it can be fixed promptly. Thank you for using the plugin!\n",
+        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần cập nhật:\n- Thêm tính năng 1\n- Thêm tính năng 2\n- Khắc phục lỗi chậm ghost\nBạn có thể tải bản nâng cấp của plugin tại đường link bên dưới, giải nén, sau đó ghi đè các file vào thư mục plugins trong phBot.\nLàm xong, bạn nhớ khởi động lại phBot để sử dụng ngay các tính năng đã cập nhật.\nVui lòng bấm nút Upload Plugin hoặc mở liên kết bên dưới để download plugin ChatControl:\nhttps://drive.google.com/drive/folders/%s\nLưu ý: Nếu bị lỗi trong quá trình nâng cấp, bạn vui lòng liên hệ với tác giả để có thể khắc phục kịp thời. Cảm ơn bạn đã sử dụng plugin!\n"
+    ],
+    "ignore": [
+        "0653265842"
+    ],
+    "support": [
+        "0938536768"
+    ],
+    "0938536768": "1hMJS4bAdWZb2bVeaEBWK3nlT9peOkb0q"
+}
