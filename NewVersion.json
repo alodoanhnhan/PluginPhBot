@@ -5,7 +5,8 @@
         "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần cập nhật:\n- Thêm tính năng 1\n- Thêm tính năng 2\n- Khắc phục lỗi chậm ghost\nBạn có thể tải bản nâng cấp của plugin tại đường link bên dưới, giải nén, sau đó ghi đè các file vào thư mục plugins trong phBot.\nLàm xong, bạn nhớ khởi động lại phBot để sử dụng ngay các tính năng đã cập nhật.\nVui lòng bấm nút Upload Plugin hoặc mở liên kết bên dưới để download plugin ChatControl:\nhttps://drive.google.com/drive/folders/%s\nLưu ý: Nếu bị lỗi trong quá trình nâng cấp, bạn vui lòng liên hệ với tác giả để có thể khắc phục kịp thời. Cảm ơn bạn đã sử dụng plugin!\n"
     ],
     "ignore": [
-        "0653265842"
+        "0653265842",
+        "0888888888"
     ],
     "support": [
         "0938536769"
