@@ -1,8 +1,8 @@
 {
     "version": "1.0.2",
     "info": [
-        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n- Add feature 1\n- Add feature 2\n- Fix slow ghost error",
-        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần cập nhật:\n- Thêm tính năng 1\n- Thêm tính năng 2\n- Khắc phục lỗi chậm ghost"
+        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n- Add feature 1\n- Add feature 2\n- Fix slow ghost error\nPlease click on the plugin update button to update to the latest version!",
+        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần cập nhật:\n- Thêm tính năng 1\n- Thêm tính năng 2\n- Khắc phục lỗi chậm ghost\nBạn vui lòng click vào nút update plugin để cập nhật phiên bản mới nhất!"
     ],
     "ignore": [
         "0653265842"
