@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "info": [
         "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n- Add feature 1\n- Add feature 2\n- Fix slow ghost error",
         "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần cập nhật:\n- Thêm tính năng 1\n- Thêm tính năng 2\n- Khắc phục lỗi chậm ghost"
