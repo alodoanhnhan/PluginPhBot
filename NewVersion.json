@@ -1,8 +1,8 @@
 {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "info": [
-        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n- Added fourth weapon to Auto Weapon menu, better support for EU characters\n- Added Beep sound to Auto Ghost and Auto Guard menus, better ghost support when playing Dai Dao or EU\n- Fix the error of not auto cure in the Auto Cure menu, the interface has a new button.\nPlease click on the plugin update button to update to the latest version!",
-        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần cập nhật:\n- Thêm vũ khí thứ tư vào menu Auto Weapon, hỗ trợ tốt hơn cho nhân vật EU\n- Thêm tiếng Bíp vào menu Auto Ghost và Auto Guard, hỗ trợ ghost tốt hơn khi chơi Đại Đao hoặc EU\n- Khắc phục lỗi không tự động hoá giải dị trạng trong menu Auto Cure, giao diện có thêm nút mới.\nBạn vui lòng sử dụng lại đường link google driver cũ để cập nhật, không bấm nút update!"
+        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n- Fix audio error in Auto Ghost menu\n- Increase transaction key press speed to 0.001 ms\nPlease click on the update v1.1.1 button to update",
+        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần cập nhật:\n- Fix lỗi audio trong menu Auto Ghost\n- Tăng tốc độ bấm phím giao dịch lên 0.001 ms\nBạn vui lòng click vào nút update v1.1.1 để cập nhật!"
     ],
     "ignore": [
         "0653265888"
