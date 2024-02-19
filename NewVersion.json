@@ -1,8 +1,8 @@
 {
-    "version": "1.1.1",
+    "version": "2.1.0",
     "info": [
-        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n- Fix audio error in Auto Ghost menu\n- Increase transaction key press speed to 0.001 ms\nPlease click on the update v1.1.1 button to update",
-        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần cập nhật:\n- Fix lỗi audio trong menu Auto Ghost\n- Tăng tốc độ bấm phím giao dịch lên 0.001 ms\nBạn vui lòng click vào nút update v1.1.1 để cập nhật!"
+        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n- Add purchase menu in F10.\n- Added copy button to the auto items menu.\nPlease click on the update button to update",
+        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần cập nhật:\n- Thêm menu mua hàng trong F10.\n- Thêm nút copy vào menu gửi đồ vào kho guild.\nBạn vui lòng click vào nút update để cập nhật!"
     ],
     "ignore": [
         "0653265888"
