@@ -1,8 +1,8 @@
 {
-    "version": "2.1.0",
+    "version": "3.1.0",
     "info": [
-        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n- Add purchase menu in F10.\n- Added copy button to the auto items menu.\nPlease click on the update button to update",
-        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần cập nhật:\n- Thêm menu mua hàng trong F10.\n- Thêm nút copy vào menu gửi đồ vào kho guild.\nBạn vui lòng click vào nút update để cập nhật!"
+        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n- Added new menu: JobRada - Function to detect hunters/traders or Thieves\n- Fix error commands Move e, move me,.. in some servers (Hac Long, Hoang Kim)\nPlease click on the update button to update",
+        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần cập nhật:\n- Thêm menu mới: JobRada - Chức năng phát hiện hunters/traders hoặc Thieves\n- Khắc phục các lệnh Move e, move me,.. bị lỗi trong một số server(Hắc Long, Hoàng Kim)\nBạn vui lòng click vào nút update để cập nhật!"
     ],
     "ignore": [
         "0653265888"
