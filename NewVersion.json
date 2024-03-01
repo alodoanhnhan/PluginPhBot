@@ -1,8 +1,8 @@
 {
-    "version": "3.1.0",
+    "version": "3.2.0",
     "info": [
-        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n- Added new menu: JobRada - Function to detect hunters/traders or Thieves\n- Fix error commands Move e, move me,.. in some servers (Hac Long, Hoang Kim)\nPlease click on the update button to update",
-        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần cập nhật:\n- Thêm menu mới: JobRada - Chức năng phát hiện hunters/traders hoặc Thieves\n- Khắc phục các lệnh Move e, move me,.. bị lỗi trong một số server(Hắc Long, Hoàng Kim)\nBạn vui lòng click vào nút update để cập nhật!"
+        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n- Nâng cấp toàn bộ giao diện và nội dung menu Auto Cure:\n++ Dùng biểu tượng mỉm cười để bấm thay cho việc bấm phím hoặc bấm skill hoá giải dị trạng.\n++ Thêm tính năng tự động hoá giải Xuất huyết và Tan dã nếu nhân vật đang bị nhiễm.\n++ Tự động trang bị Đao/Pháp bổng và khiên trước khi hoá giải dị trạng.\n- Thêm chức năng thực hiện các lệnh chat trong script khi sử dụng 2 hai hàm sau vào script:\nChatGuild,Move i e\nChatParty,Move f\n(trong đó ChatGuild và ChatParty là 2 hàm chat, Move là nội dung chat)\nSẽ có clip mới trong thời gian tới với các mục hướng dẫn:\n+ Hướng dẫn menu Auto cure.\n+ Hướng dẫn cấu hình tự trang bị khiên nếu bị đối thủ hất ngã.\n+ Hướng dẫn menu Job Rada\nPlease click on the update button to update",
+        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần cập nhật:\n- Nâng cấp toàn bộ giao diện và nội dung menu Auto Cure:\n++ Dùng biểu tượng mỉm cười để bấm thay cho việc bấm phím hoặc bấm skill hoá giải dị trạng.\n++ Thêm tính năng tự động hoá giải Xuất huyết và Tan dã nếu nhân vật đang bị nhiễm.\n++ Tự động trang bị Đao/Pháp bổng và khiên trước khi hoá giải dị trạng.\n- Thêm chức năng thực hiện các lệnh chat trong script khi sử dụng 2 hai hàm sau vào script:\nChatGuild,Move i e\nChatParty,Move f\n(trong đó ChatGuild và ChatParty là 2 hàm chat, Move là nội dung chat)\nSẽ có clip mới trong thời gian tới với các mục hướng dẫn:\n+ Hướng dẫn menu Auto cure.\n+ Hướng dẫn cấu hình tự trang bị khiên nếu bị đối thủ hất ngã.\n+ Hướng dẫn menu Job Rada\nBạn vui lòng click vào nút update để cập nhật!"
     ],
     "ignore": [
         "0653265888"
