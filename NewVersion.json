@@ -5,9 +5,9 @@
         "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\n- ĐÂY LÀ PHIÊN BẢN v4 CUỐI CÙNG TRƯỚC KHI LÊN PHIÊN BẢN v5\n- Trong phiên bản v4 lần này, chỉ fix các lỗi nhỏ để làm mượt plugin\n- Ở phiên bản v5 sắp tới, sẽ có giá 200k cho 3 tháng sử dụng, có thêm các tính năng sau:\n-- Auto job pk: Tự động pk khi job\n-- Tự động đánh theo chủ pt(đánh người chơi)\n-- Ghost được quái, hỗ trợ farm cực nhanh\n-- Tự động login/logout để farm khi hết giờ xanh\n-- Mua hàng F10 không cần tự động kích hoạt cửa sổ game(mượt mà hơn)\nNhững bạn nào đã mua plugin với giá 200k/3 tháng sử dụng sẽ được tác giả liên hệ update lên v5\nBạn vui lòng click vào nút update để cập nhật!"
     ],
     "ignore": [
-        "0653265888"
+        "0653265888", "0961489357", "0967000323", "0978632060"
     ],
     "support": [
-        "0938536788"
+        "0938536788", "0961489357", "0967000323", "0978632060"
     ]
 }
