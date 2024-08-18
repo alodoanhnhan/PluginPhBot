@@ -1,5 +1,5 @@
 {
-    "version": "5.1",
+    "version": "5.0",
     "info": [
         "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n",
         "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\n- Đã hoàn thành menu Auto login, bạn có thể xem hút hướng dẫn để sử dụng ngay hoặc đợi clip hướng dẫn\nBạn vui lòng click vào nút update để cập nhật!"
