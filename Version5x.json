@@ -1,8 +1,8 @@
 {
-    "version": "5.2",
+    "version": "5.3",
     "info": [
         "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n",
-        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\n- Fix vài lỗi nhỏ trong menu Auto login, và menu Auto ghost\n- Ổn định hơn, nuột nà hơn.\nBạn vui lòng click vào nút update để cập nhật!"
+        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\n- Fix vài lỗi nhỏ trong menu auto ghost, menu auto login, menu items\n- Ổn định hơn, nuột nà hơn.\nBạn vui lòng click vào nút update để cập nhật!"
     ],
     "ignore": [
         "0652365482"
