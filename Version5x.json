@@ -1,8 +1,8 @@
 {
-    "version": "5.5",
+    "version": "5.6",
     "info": [
         "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n",
-        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\nFix lỗi menu Auto login: Fix lỗi sót đồ khi trang bị hoặc gửi vào pet, thêm giá trị lag server vào giao diện\nFix lỗi menu Auto Ghost: Fix lỗi tay phép không cập nhật lại skill khi người chơi thay đổi trong menu tấn công\n- Ổn định hơn, nuột nà hơn.\nBạn vui lòng click vào nút update để cập nhật!"
+        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\nNâng cấp auto ghost: \n- Hỗ trợ nhập skill da dạng vào danh sách skill\n- Cho phép bấm phím kế tiếp sau khi chuyển đổi thanh F thay vì mặc định bấm phím số 3\n- Điều chỉnh lại thời gian chờ click lại\n\nBạn vui lòng click vào nút update để cập nhật!"
     ],
     "ignore": [
         "0652365482"
