@@ -1,8 +1,8 @@
 {
-    "version": "5.6",
+    "version": "5.8",
     "info": [
-        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n",
-        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\nNâng cấp auto ghost: \n- Hỗ trợ nhập skill da dạng vào danh sách skill\n- Cho phép bấm phím kế tiếp sau khi chuyển đổi thanh F thay vì mặc định bấm phím số 3\n- Điều chỉnh lại thời gian chờ click lại\n\nBạn vui lòng click vào nút update để cập nhật!"
+        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\nFix lỗi menu auto login:\n- Fix lỗi không nhận đủ đồ khi bắt đầu đi farm\n- Tự động bỏ tuỳ chọn dịch chuyển tới vị trí cuối của phbot nếu dùng menu auto login\n",
+        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\nFix lỗi menu auto login:\n- Fix lỗi không nhận đủ đồ khi bắt đầu đi farm\n- Tự động bỏ tuỳ chọn dịch chuyển tới vị trí cuối của phbot nếu dùng menu auto login\nBạn vui lòng click vào nút update để cập nhật!"
     ],
     "ignore": [
         "0652365482"
