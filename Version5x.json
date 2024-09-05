@@ -1,8 +1,8 @@
 {
-    "version": "5.8",
+    "version": "5.9",
     "info": [
-        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\nFix lỗi menu auto login:\n- Fix lỗi không nhận đủ đồ khi bắt đầu đi farm\n- Tự động bỏ tuỳ chọn dịch chuyển tới vị trí cuối của phbot nếu dùng menu auto login\n",
-        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\nFix lỗi menu auto login:\n- Fix lỗi không nhận đủ đồ khi bắt đầu đi farm\n- Tự động bỏ tuỳ chọn dịch chuyển tới vị trí cuối của phbot nếu dùng menu auto login\nBạn vui lòng click vào nút update để cập nhật!"
+        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n- Mở rộng thêm chức năng dịch chuyển ngược tới thành viên trong menu Buỳ10\n- Tạm khoá chức năng phá khoá những server cấm phbot, bởi vì có thể gây xung đột tới các menu khác.\nĐây là phiên bản chính thức, chạy mượt mà, trơn tru, được sử dụng để làm các clip hướng dẫn.\nBạn vui lòng click vào nút update để cập nhật!",
+        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\n- Mở rộng thêm chức năng dịch chuyển ngược tới thành viên trong menu Buỳ10\n- Tạm khoá chức năng phá khoá những server cấm phbot, bởi vì có thể gây xung đột tới các menu khác.\nĐây là phiên bản chính thức, chạy mượt mà, trơn tru, được sử dụng để làm các clip hướng dẫn.\nBạn vui lòng click vào nút update để cập nhật!"
     ],
     "ignore": [
         "0652365482"
