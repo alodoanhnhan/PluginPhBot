@@ -1,8 +1,8 @@
 {
     "version": "6.0",
     "info": [
-        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n- Nâng cấp gửi/nhận thời trang trong menu items và auto login.\n- Cho phép chọn không gửi nasrun hoặc thời trang trong menu items và auto login.\n- Hỗ trợ gửi pet cho những server ngăn chặn mở pet quá nhanh.\nBạn vui lòng click vào nút update để cập nhật!",
-        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\n- Nâng cấp gửi/nhận thời trang trong menu items và auto login.\n- Cho phép chọn không gửi nasrun hoặc thời trang trong menu items và auto login.\n- Hỗ trợ gửi pet cho những server ngăn chặn mở pet quá nhanh.\nBạn vui lòng click vào nút update để cập nhật!"
+        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n- Nâng cấp gửi/nhận thời trang trong menu items và auto login.\n- Cho phép chọn không gửi nasrun hoặc thời trang trong menu items và auto login.\n- Nâng cấp chọn và gửi pet đặc thù của từng server\n- Hỗ trợ gửi pet cho những server ngăn chặn mở pet quá nhanh.\nBạn vui lòng click vào nút update để cập nhật!",
+        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\n- Nâng cấp gửi/nhận thời trang trong menu items và auto login.\n- Cho phép chọn không gửi nasrun hoặc thời trang trong menu items và auto login.\n- Nâng cấp chọn và gửi pet đặc thù của từng server\n- Hỗ trợ gửi pet cho những server ngăn chặn mở pet quá nhanh.\nBạn vui lòng click vào nút update để cập nhật!"
     ],
     "ignore": [
         "0652365482"
