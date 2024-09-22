@@ -1,8 +1,8 @@
 {
-    "version": "6.0",
+    "version": "6.1",
     "info": [
-        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n- Nâng cấp gửi/nhận thời trang trong menu items và auto login.\n- Cho phép chọn không gửi nasrun hoặc thời trang trong menu items và auto login.\n- Nâng cấp chọn và gửi pet đặc thù của từng server\n- Hỗ trợ gửi pet cho những server ngăn chặn mở pet quá nhanh.\nBạn vui lòng click vào nút update để cập nhật!",
-        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\n- Nâng cấp gửi/nhận thời trang trong menu items và auto login.\n- Cho phép chọn không gửi nasrun hoặc thời trang trong menu items và auto login.\n- Nâng cấp chọn và gửi pet đặc thù của từng server\n- Hỗ trợ gửi pet cho những server ngăn chặn mở pet quá nhanh.\nBạn vui lòng click vào nút update để cập nhật!"
+        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n- Đã có menu mới: Auto Pk(chưa có clip), các bạn bấm nút hướng dẫn hoặc pm để được hướng dẫn sử dụng.\n- Nâng số lần thử vào kho guild lên 30 trong menu Items\n- Hỗ trợ gửi/nhận kim long kỳ trong menu Items\n- Fix lỗi Job Rada: cập nhật vị trí và tên địa danh ngay tức thì\nBạn vui lòng click vào nút update để cập nhật!",
+        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\n- Đã có menu mới: Auto Pk(chưa có clip), các bạn bấm nút hướng dẫn hoặc pm để được hướng dẫn sử dụng.\n- Nâng số lần thử vào kho guild lên 30 trong menu Items\n- Hỗ trợ gửi/nhận kim long kỳ trong menu Items\n- Fix lỗi Job Rada: cập nhật vị trí và tên địa danh ngay tức thì\nBạn vui lòng click vào nút update để cập nhật!"
     ],
     "ignore": [
         "0652365482"
