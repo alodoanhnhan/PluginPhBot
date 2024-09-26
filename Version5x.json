@@ -1,8 +1,8 @@
 {
-    "version": "6.1",
+    "version": "6.2",
     "info": [
-        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n- Đã có menu mới: Auto Pk(chưa có clip), các bạn bấm nút hướng dẫn hoặc pm để được hướng dẫn sử dụng.\n- Nâng số lần thử vào kho guild lên 30 trong menu Items\n- Hỗ trợ gửi/nhận kim long kỳ trong menu Items\n- Fix lỗi Job Rada: cập nhật vị trí và tên địa danh ngay tức thì\nBạn vui lòng click vào nút update để cập nhật!",
-        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\n- Đã có menu mới: Auto Pk(chưa có clip), các bạn bấm nút hướng dẫn hoặc pm để được hướng dẫn sử dụng.\n- Nâng số lần thử vào kho guild lên 30 trong menu Items\n- Hỗ trợ gửi/nhận kim long kỳ trong menu Items\n- Fix lỗi Job Rada: cập nhật vị trí và tên địa danh ngay tức thì\nBạn vui lòng click vào nút update để cập nhật!"
+        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n- Cập nhật tự động dịch chuyển qua bến cho cả party khi sử dụng lệnh follow Move f\n- Đã có menu mới: Follow Ks - Đánh theo chủ pt hoặc leader(chưa có clip), các bạn bấm nút hướng dẫn hoặc pm để được hướng dẫn sử dụng.\nLưu ý: \n- Hai menu Auto Pk và Follow Ks em mới test một mình, nên rất mong các bác test thêm để thay đổi hoặc nâng cấp tính năng hoặc phát hiện lỗi, để em nhanh chóng hoàn thiện và sớm đưa ra clip.\n- Các bác cũng nên đăng ký kênh youtube để sớm nhận được những video mới nhất ạ!\nBạn vui lòng click vào nút update để cập nhật!",
+        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\n- Cập nhật tự động dịch chuyển qua bến cho cả party khi sử dụng lệnh follow Move f\n- Đã có menu mới: Follow Ks - Đánh theo chủ pt hoặc leader(chưa có clip), các bạn bấm nút hướng dẫn hoặc pm để được hướng dẫn sử dụng.\nLưu ý: \n- Hai menu Auto Pk và Follow Ks em mới test một mình, nên rất mong các bác test thêm để thay đổi hoặc nâng cấp tính năng hoặc phát hiện lỗi, để em nhanh chóng hoàn thiện và sớm đưa ra clip.\n- Các bác cũng nên đăng ký kênh youtube để sớm nhận được những video mới nhất ạ!\nBạn vui lòng click vào nút update để cập nhật!"
     ],
     "ignore": [
         "0652365482"
