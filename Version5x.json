@@ -1,8 +1,8 @@
 {
     "version": "6.4",
     "info": [
-        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\nNâng cấp menu Auto ghost:\n- Bổ xung tính năng Ghost random: Khắc phục triệt để vấn đề khựng skill\n- Khi chọn Ghost random, chú ý đọc nhật ký để biết cách sử dụng\nNâng cấp menu Auto Pk\n- Bổ xung thêm các lựa chọn tốc độ bấm phím trong menu Auto Pk\nBạn vui lòng click vào nút update để cập nhật!",
-        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\nNâng cấp menu Auto ghost:\n- Bổ xung tính năng Ghost random: Khắc phục triệt để vấn đề khựng skill\n- Khi chọn Ghost random, chú ý đọc nhật ký để biết cách sử dụng\nNâng cấp menu Auto Pk\n- Bổ xung thêm các lựa chọn tốc độ bấm phím trong menu Auto Pk\nBạn vui lòng click vào nút update để cập nhật!"
+        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\nNâng cấp menu Auto ghost:\n- Bổ xung tính năng Ghost random: Là một lựa chọn khác để giải quyết vấn đề khựng skill\n- Ghost random là một tính năng bấm phím tuần tự, thay thế cho next key hoặc reclick nếu muốn.\n- Khi chọn Ghost random, chú ý đọc nhật ký để biết cách sử dụng\nNâng cấp menu Auto Pk\n- Bổ xung thêm các lựa chọn tốc độ bấm phím trong menu Auto Pk\nBạn vui lòng click vào nút update để cập nhật!",
+        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\nNâng cấp menu Auto ghost:\n- Bổ xung tính năng Ghost random: Là một lựa chọn khác để giải quyết vấn đề khựng skill\n- Ghost random là một tính năng bấm phím tuần tự, thay thế cho next key hoặc reclick nếu muốn.\n- Khi chọn Ghost random, chú ý đọc nhật ký để biết cách sử dụng\nNâng cấp menu Auto Pk\n- Bổ xung thêm các lựa chọn tốc độ bấm phím trong menu Auto Pk\nBạn vui lòng click vào nút update để cập nhật!"
     ],
     "ignore": [
         "0652365482"
