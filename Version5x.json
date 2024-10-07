@@ -1,8 +1,8 @@
 {
-    "version": "6.5",
+    "version": "6.6",
     "info": [
-        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\nFix nhẹ tính năng tư động dịch chuyển khi sử dụng lệnh Move f hoặc kích hoạt chức năng Follow Ks\nNếu bạn chưa cần sử dụng tính năng này thì có thể bỏ qua lần cập nhật này và đợi v6.6 để cập nhật luôn cả thể.\nBạn vui lòng click vào nút update để cập nhật!",
-        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\nFix nhẹ tính năng tư động dịch chuyển(teleport) khi sử dụng lệnh Move f hoặc kích hoạt chức năng Follow Ks\nNếu bạn chưa cần sử dụng tính năng này thì có thể bỏ qua lần cập nhật này và đợi v6.6 để cập nhật luôn cả thể.\nBạn vui lòng click vào nút update để cập nhật!"
+        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\nNâng cấp menu Auto login:\n- Hỗ trợ quản lý đăng nhập bằng phương pháp mở nhiều manager.\n- Phương pháp này sẽ giảm tải cho CPU nếu mở hơn 50 phbot, cũng khắc phục được lỗi reconect nhiều lần không thành công.\n- Cấu hình phương pháp này hơi khó, cần liên hệ để được hướng dẫn trước khi cấu hình.\nBạn vui lòng click vào nút update để cập nhật!",
+        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\nNâng cấp menu Auto login:\n- Hỗ trợ quản lý đăng nhập bằng phương pháp mở nhiều manager.\n- Phương pháp này sẽ giảm tải cho CPU nếu mở hơn 50 phbot, cũng khắc phục được lỗi reconect nhiều lần không thành công.\n- Cấu hình phương pháp này hơi khó, cần liên hệ để được hướng dẫn trước khi cấu hình.\nBạn vui lòng click vào nút update để cập nhật!"
     ],
     "ignore": [
         "0652365482"
