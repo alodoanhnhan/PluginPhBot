@@ -1,8 +1,8 @@
 {
-    "version": "6.6",
+    "version": "6.7",
     "info": [
-        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\nNâng cấp menu Auto login:\n- Hỗ trợ quản lý đăng nhập bằng phương pháp mở nhiều manager.\n- Phương pháp này sẽ giảm tải cho CPU nếu mở hơn 50 phbot, cũng khắc phục được lỗi reconect nhiều lần không thành công.\n- Cấu hình phương pháp này hơi khó, cần liên hệ để được hướng dẫn trước khi cấu hình.\nBạn vui lòng click vào nút update để cập nhật!",
-        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\nNâng cấp menu Auto login:\n- Hỗ trợ quản lý đăng nhập bằng phương pháp mở nhiều manager.\n- Phương pháp này sẽ giảm tải cho CPU nếu mở hơn 50 phbot, cũng khắc phục được lỗi reconect nhiều lần không thành công.\n- Cấu hình phương pháp này hơi khó, cần liên hệ để được hướng dẫn trước khi cấu hình.\nBạn vui lòng click vào nút update để cập nhật!"
+        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\nNâng cấp menu Auto login:\n- Fix nhẹ tính năng quản lý nhiều manager trong menu Auto login\nNâng cấp menu đánh theo chủ pt Follow Ks:\n- Hỗ trợ ghost\n- Hỗ trợ bấm phím F5 để follow leader nếu muốn follow tức thời\n- Khi kích hoạt, các noob sẽ buff tất cả các buff được cấu hình trong menu attack.\n- Fix chủ pt thay đổi đối tượng, cần thay đổi ngay.\nSửa đổi nhẹ menu Auto ghost:\n- phím z trong ghost random đã thay đổi thành phím F5 để gần với các phím F khác bấm cho tiện.\nBạn vui lòng click vào nút update để cập nhật!",
+        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\nNâng cấp menu Auto login:\n- Fix nhẹ tính năng quản lý nhiều manager trong menu Auto login\nNâng cấp menu đánh theo chủ pt Follow Ks:\n- Hỗ trợ ghost\n- Hỗ trợ bấm phím F5 để follow leader nếu muốn follow tức thời\n- Khi kích hoạt, các noob sẽ buff tất cả các buff được cấu hình trong menu attack.\n- Fix chủ pt thay đổi đối tượng, cần thay đổi ngay.\nSửa đổi nhẹ menu Auto ghost:\n- phím z trong ghost random đã thay đổi thành phím F5 để gần với các phím F khác bấm cho tiện.\nBạn vui lòng click vào nút update để cập nhật!"
     ],
     "ignore": [
         "0652365482"
