@@ -1,8 +1,8 @@
 {
-    "version": "6.7",
+    "version": "6.8",
     "info": [
-        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\nNâng cấp menu Auto login:\n- Fix nhẹ tính năng quản lý nhiều manager trong menu Auto login\nNâng cấp menu đánh theo chủ pt Follow Ks:\n- Hỗ trợ ghost\n- Hỗ trợ bấm phím F5 để follow leader nếu muốn follow tức thời\n- Khi kích hoạt, các noob sẽ buff tất cả các buff được cấu hình trong menu attack.\n- Fix chủ pt thay đổi đối tượng, cần thay đổi ngay.\nSửa đổi nhẹ menu Auto ghost:\n- phím z trong ghost random đã thay đổi thành phím F5 để gần với các phím F khác bấm cho tiện.\nBạn vui lòng click vào nút update để cập nhật!",
-        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\nNâng cấp menu Auto login:\n- Fix nhẹ tính năng quản lý nhiều manager trong menu Auto login\nNâng cấp menu đánh theo chủ pt Follow Ks:\n- Hỗ trợ ghost\n- Hỗ trợ bấm phím F5 để follow leader nếu muốn follow tức thời\n- Khi kích hoạt, các noob sẽ buff tất cả các buff được cấu hình trong menu attack.\n- Fix chủ pt thay đổi đối tượng, cần thay đổi ngay.\nSửa đổi nhẹ menu Auto ghost:\n- phím z trong ghost random đã thay đổi thành phím F5 để gần với các phím F khác bấm cho tiện.\nBạn vui lòng click vào nút update để cập nhật!"
+        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\nNâng cấp menu Auto Ghost:\n- Thêm tuỳ chọn ghost bằng cửa sổ thoát game Esc, thay thế ghost bằng biểu tượng giao dịch\n- Tuỳ chọn Esc chỉ hỗ trợ ghost boss, ghost random, không phù hợp cho pvp hoặc đi job\nSẽ ra mắt các clip giới thiệu nâng cấp các menu(auto ghost, auto login, follow ks,... ) trong thời gian tới.\nBạn vui lòng click vào nút update để cập nhật!",
+        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\nNâng cấp menu Auto Ghost:\n- Thêm tuỳ chọn ghost bằng cửa sổ thoát game Esc, thay thế ghost bằng biểu tượng giao dịch\n- Tuỳ chọn Esc chỉ hỗ trợ ghost boss, ghost random, không phù hợp cho pvp hoặc đi job\nSẽ ra mắt các clip giới thiệu nâng cấp các menu(auto ghost, auto login, follow ks,... ) trong thời gian tới.\nBạn vui lòng click vào nút update để cập nhật!"
     ],
     "ignore": [
         "0652365482"
