@@ -1,13 +1,14 @@
 {
-    "version": "6.9",
+    "version": "7.0",
     "info": [
-        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\nNâng cấp menu Auto Ghost:\n- Thêm tuỳ chọn ghost bằng cửa sổ thoát game Esc, thay thế ghost bằng biểu tượng giao dịch\n- Tuỳ chọn Esc chỉ hỗ trợ ghost boss, ghost random, không phù hợp cho pvp hoặc đi job\n- Tuỳ chỉnh hai biểu tượng(tiến lên/vui vẻ) trở thành target tới đối thủ hoặc bản thân\nFix lỗi mất điện đột ngột làm hỏng file cấu hình ChatControl\nSẽ ra mắt các clip giới thiệu nâng cấp các menu(auto ghost, auto login, follow ks,... ) trong thời gian tới.\nBạn vui lòng click vào nút update để cập nhật!",
-        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\nNâng cấp menu Auto Ghost:\n- Thêm tuỳ chọn ghost bằng cửa sổ thoát game Esc, thay thế ghost bằng biểu tượng giao dịch\n- Tuỳ chọn Esc chỉ hỗ trợ ghost boss, ghost random, không phù hợp cho pvp hoặc đi job\n- Tuỳ chỉnh hai biểu tượng(tiến lên/vui vẻ) trở thành target tới đối thủ hoặc bản thân\nFix lỗi mất điện đột ngột làm hỏng file cấu hình ChatControl\nSẽ ra mắt các clip giới thiệu nâng cấp các menu(auto ghost, auto login, follow ks,... ) trong thời gian tới.\nBạn vui lòng click vào nút update để cập nhật!"
+        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\nSửa lỗi menu Auto login:\n- Fix lỗi tuỳ chọn thoát phbot trong menu Auto login để giảm tải RAM và CPU\nBạn vui lòng click vào nút update để cập nhật!",
+        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\nSửa lỗi menu Auto login:\n- Fix lỗi tuỳ chọn thoát phbot trong menu Auto login để giảm tải RAM và CPU\nBạn vui lòng click vào nút update để cập nhật!"
     ],
     "ignore": [
         "0652365482"
     ],
     "support": [
-        "0833375121"
+        "0833375121",
+        "0917226636"
     ]
 }
