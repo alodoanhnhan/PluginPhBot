@@ -1,8 +1,8 @@
 {
-    "version": "7.0",
+    "version": "7.1",
     "info": [
-        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\nSửa lỗi menu Auto login:\n- Fix lỗi tuỳ chọn thoát phbot trong menu Auto login để giảm tải RAM và CPU\nBạn vui lòng click vào nút update để cập nhật!",
-        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\nSửa lỗi menu Auto login:\n- Fix lỗi tuỳ chọn thoát phbot trong menu Auto login để giảm tải RAM và CPU\nBạn vui lòng click vào nút update để cập nhật!"
+        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n- Hỗ trợ thêm ghost boss, ghost quái bằng tuỳ chọn Esc khi sử dụng đánh theo chủ pt(cả dàn pt đều có thể ghost được bằng Esc)\n- Thêm menu auto ghost vào danh sách copy trong menu copy config\n- Thêm lệnh Set py LuuToaDo hỗ trợ menu Auto login\nBạn vui lòng click vào nút update để cập nhật!",
+        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\n- Hỗ trợ thêm ghost boss, ghost quái bằng tuỳ chọn Esc khi sử dụng đánh theo chủ pt(cả dàn pt đều có thể ghost được bằng Esc)\n- Thêm menu auto ghost vào danh sách copy trong menu copy config\n- Thêm lệnh Set py LuuToaDo hỗ trợ menu Auto login\nBạn vui lòng click vào nút update để cập nhật!"
     ],
     "ignore": [
         "0652365482"
