@@ -1,8 +1,8 @@
 {
-    "version": "7.1",
+    "version": "7.3",
     "info": [
-        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n- Hỗ trợ thêm ghost boss, ghost quái bằng tuỳ chọn Esc khi sử dụng đánh theo chủ pt(cả dàn pt đều có thể ghost được bằng Esc)\n- Thêm menu auto ghost vào danh sách copy trong menu copy config\n- Thêm lệnh Set py LuuToaDo hỗ trợ menu Auto login\nBạn vui lòng click vào nút update để cập nhật!",
-        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\n- Hỗ trợ thêm ghost boss, ghost quái bằng tuỳ chọn Esc khi sử dụng đánh theo chủ pt(cả dàn pt đều có thể ghost được bằng Esc)\n- Thêm menu auto ghost vào danh sách copy trong menu copy config\n- Thêm lệnh Set py LuuToaDo hỗ trợ menu Auto login\nBạn vui lòng click vào nút update để cập nhật!"
+        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\nCHUẨN BỊ CÓ MENU MỚI: AUTO SMS(Tự động gửi tin nhắn(âm thanh tuỳ chọn) tới điện thoại khi):\n- Server đang bảo trì,\n- Party bị sập,\n- Bị pk\n- Canh hàng(canh thief)\n- Chết quá 5 phút không sống lại.\nCác bạn còn yêu cầu gửi tin nhắn khi nhân vật ở trong tình trạng nào nữa thì pm cho mình để mình hoàn thiện luôn nhé!\nBạn vui lòng click vào nút update để cập nhật!",
+        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\n- Fix lỗi thỉnh thoảng mất bảng skill khi sử dụng Auto login\nCHUẨN BỊ CÓ MENU MỚI: AUTO SMS(Tự động gửi tin nhắn(âm thanh tuỳ chọn) tới điện thoại khi):\n- Server đang bảo trì,\n- Party bị sập,\n- Bị pk\n- Canh hàng/canh thief\n- Chết quá 5 phút không sống lại.\nCác bạn còn yêu cầu gửi tin nhắn khi nhân vật ở trong tình trạng nào nữa thì pm cho mình để mình hoàn thiện luôn nhé!\nBạn vui lòng click vào nút update để cập nhật!"
     ],
     "ignore": [
         "0652365482"
