@@ -1,8 +1,8 @@
 {
-    "version": "8.0",
+    "version": "8.2",
     "info": [
-        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n- Căn chỉnh một vài giá trị trong menu auto ghost, auto login, auto sms,...\n- Hỗ trợ reset key plugin bằng lệnh\nLưu ý quan trọng: Nếu phiên bản plugin của các bạn dưới v7.6 thì các bạn cần update, bởi vì đây là phiên bản cuối cùng hỗ trợ tự động tải file telegram.\nBạn vui lòng click vào nút update để cập nhật!",
-        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\n- Căn chỉnh một vài giá trị trong menu auto ghost, auto login, auto sms,... để chạy mượt mà hơn.\n- Hỗ trợ reset key plugin bằng lệnh\nLưu ý quan trọng: Nếu phiên bản plugin của các bạn dưới v7.6 thì các bạn cần update, bởi vì đây là phiên bản cuối cùng hỗ trợ tự động tải file telegram.\nBạn vui lòng click vào nút update để cập nhật!"
+        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n- Cập nhật tự động điều chỉnh đường dẫn game khi chơi trên nhiều server(menu python)\nBạn vui lòng click vào nút update để cập nhật!",
+        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\n- Cập nhật tự động điều chỉnh đường dẫn game khi chơi trên nhiều server(menu python)\nBạn vui lòng click vào nút update để cập nhật!"
     ],
     "ignore": [
         "0652365482"
