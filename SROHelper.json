@@ -1,8 +1,8 @@
 {
-    "version": "1.2",
+    "version": "1.3",
     "info": [
-        "Information Version v%s:\n- Tối ưu hoá lại Auto Ghost.",
-        "Thông Tin Phiên Bản v%s:\n- Tối ưu hoá lại Auto Ghost.\n"
+        "Information Version v%s:\n- Cập nhật lại giao diện-mượt mà hơn.\n- Thêm tuỳ chọn ghost bằng chuột giữa.\n",
+        "Thông Tin Phiên Bản v%s:\n- Cập nhật lại giao diện-mượt mà hơn.\n- Thêm tuỳ chọn ghost bằng chuột giữa.\n"
     ],
     "locks": [
         "0652365482"
