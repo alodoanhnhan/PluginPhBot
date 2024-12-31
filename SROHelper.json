@@ -1,8 +1,8 @@
 {
-    "version": "1.5",
+    "version": "1.7",
     "info": [
-        "Information Version v%s:\n- Thêm tuỳ chọn cho Auto Ghost.",
-        "Thông Tin Phiên Bản v%s:\n- Thêm tuỳ chọn cho Auto Ghost."
+        "Information Version v%s:\n- Fix lỗi thỉnh thoảng tạm dừng ghost.\n- Fix lỗi không ghost sau khi DCN.\n",
+        "Thông Tin Phiên Bản v%s:\n- Fix lỗi thỉnh thoảng tạm dừng ghost.\n- Fix lỗi không ghost sau khi DCN.\n"
     ],
     "locks": [
         "0652365482"
