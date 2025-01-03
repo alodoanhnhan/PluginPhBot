@@ -1,5 +1,5 @@
 {
-    "version": "1.8",
+    "version": "1.7",
     "info": [
         "Information Version v%s:\n- Fix lỗi không ghost sau khi DCN.\n",
         "Thông Tin Phiên Bản v%s:\n- Fix lỗi không ghost sau khi DCN.\n"
