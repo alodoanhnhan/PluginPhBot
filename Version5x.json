@@ -1,8 +1,8 @@
 {
-    "version": "8.3",
+    "version": "8.4",
     "info": [
-        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n- Hỗ trợ thoát manager phbot khi sử dụng hẹn giờ bằng manager phbot thay vì manager mini trong menu Auto login\n- Thiết lập mặc định là dịch chuyển về thành nếu không chọn gì trong menu F10\nBạn vui lòng click vào nút update để cập nhật!",
-        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\n- Hỗ trợ thoát manager phbot khi sử dụng hẹn giờ bằng manager phbot thay vì manager mini trong menu Auto login\n- Thiết lập mặc định là dịch chuyển về thành nếu không chọn gì trong menu F10\nBạn vui lòng click vào nút update để cập nhật!"
+        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n- Fix lại cấu hình thanh F để nhận cả F4\n- Fix lại tự động trang bị khiên khi chạy bộ\n- Hỗ trợ thoát manager phbot khi sử dụng hẹn giờ bằng manager phbot thay vì manager mini trong menu Auto login\n- Thiết lập mặc định là dịch chuyển về thành nếu không chọn gì trong menu F10\nBạn vui lòng click vào nút update để cập nhật!",
+        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\n- Fix lại cấu hình thanh F để nhận cả F4\n- Fix lại tự động trang bị khiên khi chạy bộ\n- Hỗ trợ thoát manager phbot khi sử dụng hẹn giờ bằng manager phbot thay vì manager mini trong menu Auto login\n- Thiết lập mặc định là dịch chuyển về thành nếu không chọn gì trong menu F10\nBạn vui lòng click vào nút update để cập nhật!"
     ],
     "ignore": [
         "0652365482"
