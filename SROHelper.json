@@ -1,8 +1,8 @@
 {
-    "version": "2.0",
+    "version": "2.1",
     "info": [
-        "Information Version v%s:\n- Fix lỗi thỉnh thoảng không tự bấm phím next khi ghost.\n",
-        "Thông Tin Phiên Bản v%s:\n- Fix lỗi thỉnh thoảng không tự bấm phím next khi ghost.\n"
+        "Information Version v%s:\n- Fix lỗi không nhận diện được nhân vật sau khi dùng dịch chuyển ngược.\n",
+        "Thông Tin Phiên Bản v%s:\n- Fix lỗi không nhận diện được nhân vật sau khi dùng dịch chuyển ngược.\n"
     ],
     "locks": [
         "0652365482",
