@@ -1,5 +1,5 @@
 {
-    "version": "2.1",
+    "version": "2.2",
     "info": [
         "Information Version v%s:\n- Fix lỗi không nhận diện được nhân vật sau khi dùng dịch chuyển ngược.\n",
         "Thông Tin Phiên Bản v%s:\n- Fix lỗi không nhận diện được nhân vật sau khi dùng dịch chuyển ngược.\n"
