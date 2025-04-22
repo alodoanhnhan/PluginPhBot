@@ -1,8 +1,8 @@
 {
-    "version": "2.2",
+    "version": "2.3",
     "info": [
-        "Information Version v%s:\n- Fix lỗi không nhận diện được nhân vật sau khi dùng dịch chuyển ngược.\n",
-        "Thông Tin Phiên Bản v%s:\n- Fix lỗi không nhận diện được nhân vật sau khi dùng dịch chuyển ngược.\n"
+        "Information Version v%s:\n- Update canh hàng: Phát hiện cả đối tượng không di chuyển.",
+        "Thông Tin Phiên Bản v%s:\n- Update canh hàng: Phát hiện cả đối tượng không di chuyển."
     ],
     "locks": [
         "0652365482",
