@@ -1,5 +1,5 @@
 {
-    "version": "2.4",
+    "version": "2.5",
     "info": [
         "Information Version v%s:\n- Update canh hàng: Phát hiện cả đối tượng không di chuyển.\n- Thêm tính năng khởi tạo server.",
         "Thông Tin Phiên Bản v%s:\n- Update canh hàng: Phát hiện cả đối tượng không di chuyển.\n- Thêm tính năng khởi tạo server."
