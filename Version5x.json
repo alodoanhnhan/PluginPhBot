@@ -6,6 +6,14 @@
         "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n- Đồng bộ với các phiên bản của phbot\nBạn vui lòng click vào nút update để cập nhật!",
         "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\n- Đồng bộ với các phiên bản của phbot\nBạn vui lòng click vào nút update để cập nhật!"
     ],
+    "info_farm": [
+        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n- Đồng bộ với các phiên bản của phbot\nBạn vui lòng click vào nút update để cập nhật!",
+        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\n- Đồng bộ với các phiên bản của phbot\nBạn vui lòng click vào nút update để cập nhật!"
+    ],
+    "info_job": [
+        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n- Đồng bộ với các phiên bản của phbot\nBạn vui lòng click vào nút update để cập nhật!",
+        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\n- Đồng bộ với các phiên bản của phbot\nBạn vui lòng click vào nút update để cập nhật!"
+    ],
     "ignore": [
         "0652365482"
     ],
