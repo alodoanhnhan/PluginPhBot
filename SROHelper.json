@@ -1,8 +1,8 @@
 {
-    "version": "2.5",
+    "version": "2.6",
     "info": [
-        "Information Version v%s:\n- Update canh hàng: Phát hiện cả đối tượng không di chuyển.\n- Thêm tính năng khởi tạo server.",
-        "Thông Tin Phiên Bản v%s:\n- Update canh hàng: Phát hiện cả đối tượng không di chuyển.\n- Thêm tính năng khởi tạo server."
+        "Information Version v%s:\n- Auto Ghost: Thêm nhật ký báo nhân vật bị chết hoặc sống lại.",
+        "Thông Tin Phiên Bản v%s:\n- Auto Ghost: Thêm nhật ký báo nhân vật bị chết hoặc sống lại."
     ],
     "locks": [
         "0652365482",
