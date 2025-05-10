@@ -1,7 +1,7 @@
 {
     "version": "8.6",
-    "version_farm": "1.1",
-    "version_job": "1.2",
+    "version_farm": "1.0",
+    "version_job": "1.0",
     "info": [
         "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n- Đồng bộ với các phiên bản của phbot\nBạn vui lòng click vào nút update để cập nhật!",
         "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\n- Đồng bộ với các phiên bản của phbot\nBạn vui lòng click vào nút update để cập nhật!"
