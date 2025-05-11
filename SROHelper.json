@@ -1,8 +1,8 @@
 {
-    "version": "2.8",
+    "version": "2.9",
     "info": [
-        "Information Version v%s:\n- Hỗ trợ chơi game thông qua Radmin VPN.",
-        "Thông Tin Phiên Bản v%s:\n- Hỗ trợ chơi thông qua Radmin VPN."
+        "Information Version v%s:\n- Tối ưu hoá chơi Radmin VPN.",
+        "Thông Tin Phiên Bản v%s:\n- Tối ưu hoá chơi Radmin VPN."
     ],
     "locks": [
         "0652365482",
