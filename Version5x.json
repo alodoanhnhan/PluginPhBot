@@ -1,7 +1,7 @@
 {
-    "version": "9.2",
-    "version_farm": "1.4",
-    "version_job": "1.4",
+    "version": "9.3",
+    "version_farm": "9.3",
+    "version_job": "9.3",
     "info": [
         "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n- Hỗ trợ 3 phiên bản Full, Job, Farm. Vào menu python để chọn phiên bản sử dụng!",
         "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\n- Hỗ trợ 3 phiên bản Full, Job, Farm. Vào menu python để chọn phiên bản sử dụng!"
