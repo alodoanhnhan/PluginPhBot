@@ -1,7 +1,7 @@
 {
-    "version": "9.5",
-    "version_farm": "9.5",
-    "version_job": "9.5",
+    "version": "9.4",
+    "version_farm": "9.4",
+    "version_job": "9.4",
     "info": [
         "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n-Fix lỗi lắng nghe sự kiện bấm thanh F trong Auto Ghost!",
         "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\n-Fix lỗi lắng nghe sự kiện bấm thanh F trong Auto Ghost!"
@@ -25,4 +25,5 @@
         "0376640120"
     ]
 }
+
 
