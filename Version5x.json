@@ -1,18 +1,18 @@
 {
-    "version": "9.4",
-    "version_farm": "9.4",
-    "version_job": "9.4",
+    "version": "9.5",
+    "version_farm": "9.5",
+    "version_job": "9.5",
     "info": [
-        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n- Fixed the issue where strange costumes were not detected in the Auto Login menu.\n- Fixed the issue where the Farm version was not detected when using the mini manager.\n- This is the best plugin version for phBot v18.0.6 and earlier.\n- From phBot v18.0.7 onward, the plugin will be used in combination with SroTools.\nPlease click the update button to update!",
-        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\n- Fix lỗi không nhận được thời trang lạ trong menu Auto Login.\n- Fix lỗi không nhận được phiên bản Farm khi sử dụng trình quản lý mini.\n- Đây là phiên bản plugin tốt nhất cho phbot v18.0.6 trở về trước.\n- Từ phbot v18.0.7 trở về sau, sẽ sử dụng plugin kết hợp với SroTools.\nBạn vui lòng click vào nút update để cập nhật!"
+        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n-Fix lỗi lắng nghe sự kiện bấm thanh F trong Auto Ghost!",
+        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\n-Fix lỗi lắng nghe sự kiện bấm thanh F trong Auto Ghost!"
     ],
     "info_farm": [
-        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n- Fixed the issue where strange costumes were not detected in the Auto Login menu.\n- Fixed the issue where the Farm version was not detected when using the mini manager.\n- This is the best plugin version for phBot v18.0.6 and earlier.\n- From phBot v18.0.7 onward, the plugin will be used in combination with SroTools.\nPlease click the update button to update!",
-        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\n- Fix lỗi không nhận được thời trang lạ trong menu Auto Login.\n- Fix lỗi không nhận được phiên bản Farm khi sử dụng trình quản lý mini.\n- Đây là phiên bản plugin tốt nhất cho phbot v18.0.6 trở về trước.\n- Từ phbot v18.0.7 trở về sau, sẽ sử dụng plugin kết hợp với SroTools.\nBạn vui lòng click vào nút update để cập nhật!"
+        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n-Fix lỗi lắng nghe sự kiện bấm thanh F trong Auto Ghost!",
+        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\n-Fix lỗi lắng nghe sự kiện bấm thanh F trong Auto Ghost!"
     ],
     "info_job": [
-        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n- Fixed the issue where strange costumes were not detected in the Auto Login menu.\n- Fixed the issue where the Farm version was not detected when using the mini manager.\n- This is the best plugin version for phBot v18.0.6 and earlier.\n- From phBot v18.0.7 onward, the plugin will be used in combination with SroTools.\nPlease click the update button to update!",
-        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\n- Fix lỗi không nhận được thời trang lạ trong menu Auto Login.\n- Fix lỗi không nhận được phiên bản Farm khi sử dụng trình quản lý mini.\n- Đây là phiên bản plugin tốt nhất cho phbot v18.0.6 trở về trước.\n- Từ phbot v18.0.7 trở về sau, sẽ sử dụng plugin kết hợp với SroTools.\nBạn vui lòng click vào nút update để cập nhật!"
+        "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n-Fix lỗi lắng nghe sự kiện bấm thanh F trong Auto Ghost!",
+        "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\n-Fix lỗi lắng nghe sự kiện bấm thanh F trong Auto Ghost!"
     ],
     "ignore": [
         "0652365482"
@@ -25,3 +25,4 @@
         "0376640120"
     ]
 }
+
