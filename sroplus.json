@@ -1,5 +1,5 @@
 {
-    "version": "3.2",
+    "version": "4.0",
     "info": [
         "Information Version v%s:\n- Hỗ trợ đồng thời mạng chính và VPN.",
         "Thông Tin Phiên Bản v%s:\n- Hỗ trợ đồng thời mạng chính và VPN."
@@ -11,3 +11,4 @@
         "0376640120"        
     ]
 }
+
