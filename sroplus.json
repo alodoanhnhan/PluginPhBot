@@ -1,0 +1,13 @@
+{
+    "version": "3.2",
+    "info": [
+        "Information Version v%s:\n- Hỗ trợ đồng thời mạng chính và VPN.",
+        "Thông Tin Phiên Bản v%s:\n- Hỗ trợ đồng thời mạng chính và VPN."
+    ],
+    "locks": [
+        "0652365482",
+        "0833375121",
+        "0917226636",
+        "0376640120"        
+    ]
+}
