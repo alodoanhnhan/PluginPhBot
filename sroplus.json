@@ -1,5 +1,5 @@
 {
-    "version": "4.0",
+    "version": "4.1",
     "info": [
         "Information Version v%s:\n- Fix lỗi lặt vặt.",
         "Thông Tin Phiên Bản v%s:\n- Fix lỗi lặt vặt."
@@ -11,6 +11,7 @@
         "0376640120"        
     ]
 }
+
 
 
 
