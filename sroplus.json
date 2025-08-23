@@ -1,8 +1,8 @@
 {
-    "version": "4.3",
+    "version": "4.4",
     "info": [
-        "Information Version v%s:\n- Fix lỗi lặt vặt.",
-        "Thông Tin Phiên Bản v%s:\n- Fix lỗi lặt vặt."
+        "Information Version v%s:\n- Fix lỗi kill client khi ghost nhanh.",
+        "Thông Tin Phiên Bản v%s:\n- Fix lỗi kill client khi ghost nhanh"
     ],
     "locks": [
         "0652365482",
@@ -11,6 +11,7 @@
         "0376640120"        
     ]
 }
+
 
 
 
