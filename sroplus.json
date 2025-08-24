@@ -1,8 +1,8 @@
 {
-    "version": "4.5",
+    "version": "4.6",
     "info": [
-        "Information Version v%s:\n- Đã hoàn thiện chức năng Auto Ghost.",
-        "Thông Tin Phiên Bản v%s:\n- Đã hoàn thiện chức năng Auto Ghost."
+        "Information Version v%s:\n- Đã tích hợp menu Phòng Thủ\n ae trải nghiệm và cho ý kiến!.",
+        "Thông Tin Phiên Bản v%s:\n- Đã tích hợp menu Phòng Thủ\n ae trải nghiệm và cho ý kiến!."
     ],
     "locks": [
         "0652365482",
@@ -11,6 +11,7 @@
         "0376640120"        
     ]
 }
+
 
 
 
