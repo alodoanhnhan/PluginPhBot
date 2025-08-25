@@ -1,8 +1,8 @@
 {
-    "version": "4.6",
+    "version": "4.7",
     "info": [
-        "Information Version v%s:\n- Đã tích hợp menu Phòng Thủ\n ae trải nghiệm và cho ý kiến!.",
-        "Thông Tin Phiên Bản v%s:\n- Đã tích hợp menu Phòng Thủ\n ae trải nghiệm và cho ý kiến!."
+        "Information Version v%s:\n- Đã tích hợp menu Phòng Thủ và Khớp Vũ Khí\n ae trải nghiệm và cho ý kiến!.",
+        "Thông Tin Phiên Bản v%s:\n- Đã tích hợp menu Phòng Thủ và Khớp Vũ Khí\n ae trải nghiệm và cho ý kiến!."
     ],
     "locks": [
         "0652365482",
@@ -11,6 +11,7 @@
         "0376640120"        
     ]
 }
+
 
 
 
