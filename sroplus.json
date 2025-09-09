@@ -1,5 +1,5 @@
 {
-    "version": "6.0",
+    "version": "6.1",
     "info": [
         "Information Version v%s:\n- Thêm tuỳ chọn target trong menu Auto Ghost!.",
         "Thông Tin Phiên Bản v%s:\n- Thêm tuỳ chọn target trong menu Auto Ghost!."
@@ -11,6 +11,7 @@
         "0376640120"        
     ]
 }
+
 
 
 
