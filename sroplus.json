@@ -1,8 +1,8 @@
 {
-    "version": "6.3",
+    "version": "6.4",
     "info": [
-        "Information Version v%s:\n- Loại bỏ giới hạn chuyển đổi thanh F trong Auto Ghost!.",
-        "Thông Tin Phiên Bản v%s:\n- Loại bỏ giới hạn chuyển đổi thanh F trong Auto Ghost!."
+        "Information Version v%s:\n- Fix lỗi target, loạn vũ khí!.",
+        "Thông Tin Phiên Bản v%s:\n- Fix lỗi target, loạn vũ khí!."
     ],
     "locks": [
         "0652365482",
@@ -12,6 +12,7 @@
         "0376640120"        
     ]
 }
+
 
 
 
