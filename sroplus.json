@@ -1,5 +1,5 @@
 {
-    "version": "6.8",
+    "version": "6.9",
     "info": [
         "Information Version v%s:\n- Thêm tùy chọn trong menu phòng thủ.",
         "Thông Tin Phiên Bản v%s:\n- Thêm tùy chọn trong menu phòng thủ."
@@ -12,6 +12,7 @@
         "0376640120"        
     ]
 }
+
 
 
 
