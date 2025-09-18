@@ -1,8 +1,8 @@
 {
-    "version": "6.9",
+    "version": "7.0",
     "info": [
-        "Information Version v%s:\n- Thêm tùy chọn trong menu phòng thủ.",
-        "Thông Tin Phiên Bản v%s:\n- Thêm tùy chọn trong menu phòng thủ."
+        "Information Version v%s:\n- Fix lại vài lỗi nhỏ trong chức năng canh hàng.",
+        "Thông Tin Phiên Bản v%s:\n- Fix lại vài lỗi nhỏ trong chức năng canh hàng."
     ],
     "locks": [
         "0652365482",
@@ -12,6 +12,7 @@
         "0376640120"        
     ]
 }
+
 
 
 
