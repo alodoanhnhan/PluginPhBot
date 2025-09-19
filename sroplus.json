@@ -1,8 +1,8 @@
 {
     "version": "7.1",
     "info": [
-        "Information Version v%s:\n- Fix lại vài lỗi nhỏ trong chức năng canh hàng.",
-        "Thông Tin Phiên Bản v%s:\n- Fix lại vài lỗi nhỏ trong chức năng canh hàng."
+        "Information Version v%s:\n- Fix lỗi không lưu 2 skill giống nhau trong Auto Ghost.",
+        "Thông Tin Phiên Bản v%s:\n- Fix lỗi không lưu 2 skill giống nhau trong Auto Ghost."
     ],
     "locks": [
 		"0886985997",
@@ -146,6 +146,7 @@
         "0376640120"   
     ]
 }
+
 
 
 
