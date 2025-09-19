@@ -1,5 +1,5 @@
 {
-    "version": "7.0",
+    "version": "7.1",
     "info": [
         "Information Version v%s:\n- Fix lại vài lỗi nhỏ trong chức năng canh hàng.",
         "Thông Tin Phiên Bản v%s:\n- Fix lại vài lỗi nhỏ trong chức năng canh hàng."
@@ -146,6 +146,7 @@
         "0376640120"   
     ]
 }
+
 
 
 
