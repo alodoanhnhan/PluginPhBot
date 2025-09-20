@@ -1,8 +1,8 @@
 {
-    "version": "7.1",
+    "version": "7.3",
     "info": [
-        "Information Version v%s:\n- Fix lỗi không lưu 2 skill giống nhau trong Auto Ghost.",
-        "Thông Tin Phiên Bản v%s:\n- Fix lỗi không lưu 2 skill giống nhau trong Auto Ghost."
+        "Information Version v%s:\n- Bấm F6 để start/stop ghost random.\n- Thêm tab Tiện Ích Mở Rộng.\n- Fix lỗi Target to Ghost",
+        "Thông Tin Phiên Bản v%s:\n- Bấm F6 để start/stop ghost random.\n- Thêm tab Tiện Ích Mở Rộng.\n- Fix lỗi Target to Ghost"
     ],
     "locks": [
 		"0886985997",
@@ -146,6 +146,7 @@
         "0376640120"   
     ]
 }
+
 
 
 
