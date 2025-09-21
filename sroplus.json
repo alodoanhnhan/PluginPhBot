@@ -1,5 +1,5 @@
 {
-    "version": "7.3",
+    "version": "7.4",
     "info": [
         "Information Version v%s:\n- Bấm F6 để start/stop ghost random.\n- Thêm tab Tiện Ích Mở Rộng.\n- Fix lỗi Target to Ghost",
         "Thông Tin Phiên Bản v%s:\n- Bấm F6 để start/stop ghost random.\n- Thêm tab Tiện Ích Mở Rộng.\n- Fix lỗi Target to Ghost"
@@ -146,6 +146,7 @@
         "0376640120"   
     ]
 }
+
 
 
 
