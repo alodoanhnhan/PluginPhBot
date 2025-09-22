@@ -1,5 +1,5 @@
 {
-    "version": "3.3",
+    "version": "3.4",
     "info": [
         "Information Version v%s:\n- Fix lỗi canh hàng.",
         "Thông Tin Phiên Bản v%s:\n- Fix lỗi canh hàng."
@@ -146,6 +146,7 @@
         "0376640120"
     ]
 }
+
 
 
 
