@@ -1,8 +1,8 @@
 {
-    "version": "7.9",
+    "version": "8.1",
     "info": [
-        "Information Version v%s:\n- Thêm nút xóa items trong Farm\n- Fix lỗi target trong Auto Ghost",
-        "Thông Tin Phiên Bản v%s:\n- Thêm nút xóa items trong Farm\n- Fix lỗi target trong Auto Ghost"
+        "Information Version v%s:\n- Fix lỗi treo nút start auto ghost.\n- Fix lỗi lưu lệnh chat.",
+        "Thông Tin Phiên Bản v%s:\n- Fix lỗi treo nút start auto ghost.\n- Fix lỗi lưu lệnh chat."
     ],
     "locks": [
 		"0886985997",
@@ -143,6 +143,7 @@
         "0376640120"   
     ]
 }
+
 
 
 
