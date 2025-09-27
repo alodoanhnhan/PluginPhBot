@@ -1,5 +1,5 @@
 {
-    "version": "8.0",
+    "version": "7.9",
     "info": [
         "Information Version v%s:\n- Thêm nút xóa items trong Farm\n- Fix lỗi target trong Auto Ghost",
         "Thông Tin Phiên Bản v%s:\n- Thêm nút xóa items trong Farm\n- Fix lỗi target trong Auto Ghost"
@@ -144,6 +144,7 @@
         "0376640120"   
     ]
 }
+
 
 
 
