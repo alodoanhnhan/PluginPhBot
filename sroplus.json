@@ -1,8 +1,8 @@
 {
-    "version": "8.1",
+    "version": "8.2",
     "info": [
-        "Information Version v%s:\n- Fix lỗi treo nút start auto ghost.\n- Fix lỗi lưu lệnh chat.",
-        "Thông Tin Phiên Bản v%s:\n- Fix lỗi treo nút start auto ghost.\n- Fix lỗi lưu lệnh chat."
+        "Information Version v%s:\n- Fix lỗi thỉnh thoảng rớt kết nối sau 24h.\n- Thêm tùy chọn tốc độ bấm phím trong Ghost Random.",
+        "Thông Tin Phiên Bản v%s:\n- Fix lỗi thỉnh thoảng rớt kết nối sau 24h.\n- Thêm tùy chọn tốc độ bấm phím trong Ghost Random."
     ],
     "locks": [
 		"0886985997",
@@ -142,6 +142,7 @@
         "0376640120"   
     ]
 }
+
 
 
 
