@@ -1,5 +1,5 @@
 {
-    "version": "8.1",
+    "version": "8.3",
     "info": [
         "Information Version v%s:\n- Fix lỗi thỉnh thoảng rớt kết nối sau 24h.\n- Thêm tùy chọn tốc độ bấm phím trong Ghost Random.",
         "Thông Tin Phiên Bản v%s:\n- Fix lỗi thỉnh thoảng rớt kết nối sau 24h.\n- Thêm tùy chọn tốc độ bấm phím trong Ghost Random."
@@ -142,6 +142,7 @@
         "0376640120"   
     ]
 }
+
 
 
 
