@@ -1,5 +1,5 @@
 {
-    "version": "8.7",
+    "version": "8.8",
     "info": [
         "Information Version v%s:\n- Thêm chức năng ghost party hỗ trợ dàn farm ghost đồng thời.",
         "Thông Tin Phiên Bản v%s:\n- Thêm chức năng ghost party hỗ trợ dàn farm ghost đồng thời."
@@ -140,6 +140,7 @@
         "0376640120"   
     ]
 }
+
 
 
 
