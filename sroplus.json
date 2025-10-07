@@ -1,8 +1,8 @@
 {
-    "version": "9.2",
+    "version": "9.3",
     "info": [
-        "Information Version v%s:\n- Thêm chức năng đánh theo chủ party.",
-        "Thông Tin Phiên Bản v%s:\n- Thêm chức năng đánh theo chủ party."
+        "Information Version v%s:\n- Thêm chức năng chat định kỳ.",
+        "Thông Tin Phiên Bản v%s:\n- Thêm chức năng chat định kỳ."
     ],
     "locks": [
 		"0886985997",
@@ -140,6 +140,7 @@
         "0376640120"   
     ]
 }
+
 
 
 
