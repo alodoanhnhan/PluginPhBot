@@ -1,8 +1,8 @@
 {
-    "version": "9.3",
+    "version": "9.4",
     "info": [
-        "Information Version v%s:\n- Thêm chức năng chat định kỳ.",
-        "Thông Tin Phiên Bản v%s:\n- Thêm chức năng chat định kỳ."
+        "Information Version v%s:\n- Thêm 3 dị trạng mới vào menu phòng thủ.",
+        "Thông Tin Phiên Bản v%s:\n- Thêm 3 dị trạng mới vào menu phòng thủ."
     ],
     "locks": [
 		"0886985997",
@@ -140,6 +140,7 @@
         "0376640120"   
     ]
 }
+
 
 
 
