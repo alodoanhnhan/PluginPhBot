@@ -1,5 +1,5 @@
 {
-    "version": "9.5",
+    "version": "9.6",
     "info": [
         "Information Version v%s:\n- Thêm 3 dị trạng mới vào menu Phòng Thủ.\n- Thêm nút điểm danh hàng loạt trong menu Chat.\n- Cho phép lưu chế độ lag server trong menu Cài Đặt.",
         "Thông Tin Phiên Bản v%s:\n- Thêm 3 dị trạng mới vào menu Phòng Thủ.\n- Thêm nút điểm danh hàng loạt trong menu Chat.\n- Cho phép lưu chế độ lag server trong menu Cài Đặt."
@@ -140,6 +140,7 @@
         "0376640120"   
     ]
 }
+
 
 
 
