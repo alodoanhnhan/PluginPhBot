@@ -1,5 +1,5 @@
 {
-    "version": "9.9",
+    "version": "10.0",
     "info": [
         "Information Version v%s:\n- Phiên bản hoàn thiện!",
         "Thông Tin Phiên Bản v%s:\n- Phiên bản hoàn thiện!"
@@ -139,6 +139,7 @@
         "0376640120"   
     ]
 }
+
 
 
 
