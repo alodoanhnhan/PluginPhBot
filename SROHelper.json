@@ -1,8 +1,8 @@
 {
-    "version": "3.5",
+    "version": "3.6",
     "info": [
-        "Information Version v%s:\n- Sử dụng database của sroplus(nếu có).",
-        "Thông Tin Phiên Bản v%s:\n- Sử dụng database của sroplus(nếu có)."
+        "Information Version v%s:\n- Phục hồi sử dụng lại data gốc.",
+        "Thông Tin Phiên Bản v%s:\n- Phục hồi sử dụng lại data gốc."
     ],
     "locks": [
 		"0886985997",
@@ -138,6 +138,7 @@
         "0376640120"
     ]
 }
+
 
 
 
