@@ -1,8 +1,8 @@
 {
-    "version": "10.2",
+    "version": "10.3",
     "info": [
-        "Information Version v%s:\n- Fix lỗi disconnect khi server lag!\n- Hỗ trợ hóa giải dị trạng bằng biểu tượng cảm xúc F7",
-        "Thông Tin Phiên Bản v%s:\n- Fix lỗi disconnect khi server lag!\n- Hỗ trợ hóa giải dị trạng bằng biểu tượng cảm xúc F7"
+        "Information Version v%s:\n- Hỗ trợ hóa giải dị trạng bổ xung bằng biểu tượng cảm xúc F7",
+        "Thông Tin Phiên Bản v%s:\n- Hỗ trợ hóa giải dị trạng bổ xung bằng biểu tượng cảm xúc F7"
     ],
     "locks": [
 		"0786875545",
@@ -167,6 +167,7 @@
 		"0982095545"
     ]
 }
+
 
 
 
