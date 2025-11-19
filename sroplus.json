@@ -1,7 +1,7 @@
 {
     "version": "10.5",
     "info": [
-        "Information Version v%s:\n- Tăng hỗ trợ lỗi trang bị vũ khí lên 8 lần khi dùng chức năng Khớp Vũ Khí",
+        "Information Version v%s:\n- Increase the weapon equipping error support by 8 times when using the Weapon Sync menu.",
         "Thông Tin Phiên Bản v%s:\n- Tăng hỗ trợ lỗi trang bị vũ khí lên 8 lần khi dùng chức năng Khớp Vũ Khí"
     ],
     "locks": [
@@ -164,6 +164,7 @@
 		"0982095545"
     ]
 }
+
 
 
 
