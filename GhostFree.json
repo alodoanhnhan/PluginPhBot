@@ -1,7 +1,8 @@
 {
-    "version": "1.0",
+    "version": "1.1",
     "info": [
         "Information Version v%s:\n- Khởi tạo tools.",
         "Thông Tin Phiên Bản v%s:\n- Khởi tạo tools."
     ]
 }
+
