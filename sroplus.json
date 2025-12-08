@@ -1,5 +1,5 @@
 {
-    "version": "10.6",
+    "version": "10.7",
     "info": [
         "Information Version v%s:\n- Increase the weapon equipping error support by 8 times when using the Weapon Sync menu.",
         "Thông Tin Phiên Bản v%s:\n- Fix lỗi dị trạng bổ sung\n- Fix lỗi ghost đam cuối"
@@ -160,6 +160,7 @@
 		"0982095545"
     ]
 }
+
 
 
 
