@@ -1,8 +1,8 @@
 {
-    "version": "10.8",
+    "version": "10.9",
     "info": [
         "Information Version v%s:\n- Increase the weapon equipping error support by 8 times when using the Weapon Sync menu.",
-        "Thông Tin Phiên Bản v%s:\n- Fix lỗi hết nhảy nhót\n- Nâng cấp bảo mật"
+        "Thông Tin Phiên Bản v%s:\n- Tích hợp chức năng Ẩn-Hiện Sroplus\n- Nhấn F11 sẽ Ẩn, F12 sẽ Hiện\n- Yêu cầu trước đó đã kích hoạt Auto Ghost."
     ],
     "locks": [
 		"0786875545",
@@ -154,9 +154,12 @@
 		"0379999179",
 		"0865328765",
 		"0865613994",
+		"0778777729",
+		"0967651237",
 		"0982095545"
     ]
 }
+
 
 
 
