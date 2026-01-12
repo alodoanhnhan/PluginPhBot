@@ -1,5 +1,5 @@
 {
-    "version": "10.9",
+    "version": "11.0",
     "info": [
         "Information Version v%s:\n- Ra mắt chức năng Quản Lý Bots",
         "Thông Tin Phiên Bản v%s:\n- Ra mắt chức năng Quản Lý Bots"
@@ -159,6 +159,7 @@
 		"0982095545"
     ]
 }
+
 
 
 
