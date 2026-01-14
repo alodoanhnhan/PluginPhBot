@@ -1,8 +1,8 @@
 {
-    "version": "11.0",
+    "version": "11.1",
     "info": [
-        "Information Version v%s:\n- Ra mắt chức năng Quản Lý Bots",
-        "Thông Tin Phiên Bản v%s:\n- Ra mắt chức năng Quản Lý Bots"
+        "Information Version v%s:\n- Ra mắt chức năng Quản Lý Bots, Auto Login chưa hoàn thiện.",
+        "Thông Tin Phiên Bản v%s:\n- Ra mắt chức năng Quản Lý Bots, Auto Login chưa hoàn thiện."
     ],
     "locks": [
 		"0786875545",
@@ -159,6 +159,7 @@
 		"0982095545"
     ]
 }
+
 
 
 
