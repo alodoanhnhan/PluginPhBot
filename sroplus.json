@@ -1,5 +1,5 @@
 {
-    "version": "11.4",
+    "version": "11.5",
     "info": [
         "Information Version v%s:\n- Ra mắt chức năng Auto Login",
         "Thông Tin Phiên Bản v%s:\n- Ra mắt chức năng Auto Login"
@@ -159,6 +159,7 @@
 		"0982095545"
     ]
 }
+
 
 
 
