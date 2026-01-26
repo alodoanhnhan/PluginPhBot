@@ -1,8 +1,8 @@
 {
-    "version": "11.5",
+    "version": "11.6",
     "info": [
-        "Information Version v%s:\n- Ra mắt chức năng Auto Login",
-        "Thông Tin Phiên Bản v%s:\n- Ra mắt chức năng Auto Login"
+        "Information Version v%s:\n- Ra mắt chức năng Quản lý Bots và Auto Login",
+        "Thông Tin Phiên Bản v%s:\n- Ra mắt chức năng Quản lý Bots và Auto Login"
     ],
     "locks": [
 		"0786875545",
@@ -159,6 +159,7 @@
 		"0982095545"
     ]
 }
+
 
 
 
