@@ -1,8 +1,8 @@
 {
-    "version": "12.1",
+    "version": "12.2",
     "info": [
-        "Information Version v%s:\n- Ra mắt chức năng mua hàng trong F10",
-        "Thông Tin Phiên Bản v%s:\n- Ra mắt chức năng mua hàng trong F10"
+        "Information Version v%s:\n- Hỗ trợ auto login và farm cùng lúc nhiều server",
+        "Thông Tin Phiên Bản v%s:\n- Hỗ trợ auto login và farm cùng lúc nhiều server"
     ],
     "locks": [
 		"0786875545",
@@ -159,6 +159,7 @@
 		"0982095545"
     ]
 }
+
 
 
 
