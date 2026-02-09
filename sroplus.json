@@ -1,8 +1,8 @@
 {
-    "version": "12.4",
+    "version": "12.5",
     "info": [
-        "Information Version v%s:\n- Hỗ trợ auto login và farm cùng lúc nhiều server",
-        "Thông Tin Phiên Bản v%s:\n- Hỗ trợ auto login và farm cùng lúc nhiều server"
+        "Information Version v%s:\n- Hỗ trợ giữ lại số gold trong menu Farm\n- Hỗ trợ thị trấn Alexandria north trong menu quản lý bot",
+        "Thông Tin Phiên Bản v%s:\n- Hỗ trợ giữ lại số gold trong menu Farm\n- Hỗ trợ thị trấn Alexandria north trong menu quản lý bot"
     ],
     "locks": [
 		"0786875545",
@@ -158,6 +158,7 @@
 		"0982095545"
     ]
 }
+
 
 
 
