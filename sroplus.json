@@ -1,5 +1,5 @@
 {
-    "version": "13.1",
+    "version": "13.2",
     "info": [
         "Information Version v%s:\n- Hỗ trợ giữ lại số gold trong menu Farm\n- Hỗ trợ thị trấn Alexandria north trong menu quản lý bot",
         "Thông Tin Phiên Bản v%s:\n- Hỗ trợ giữ lại số gold trong menu Farm\n- Hỗ trợ thị trấn Alexandria north trong menu quản lý bot"
@@ -157,6 +157,7 @@
 		"0982095545"
     ]
 }
+
 
 
 
