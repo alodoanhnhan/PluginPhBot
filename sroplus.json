@@ -1,8 +1,8 @@
 {
-    "version": "13.2",
+    "version": "13.4",
     "info": [
-        "Information Version v%s:\n- Hỗ trợ giữ lại số gold trong menu Farm\n- Hỗ trợ thị trấn Alexandria north trong menu quản lý bot",
-        "Thông Tin Phiên Bản v%s:\n- Hỗ trợ giữ lại số gold trong menu Farm\n- Hỗ trợ thị trấn Alexandria north trong menu quản lý bot"
+        "Information Version v%s:\n- Tăng tốc Reclick trong Auto Ghost\n- Tiếp tục ghost khi MP hồi không kịp",
+        "Thông Tin Phiên Bản v%s:\n- Tăng tốc Reclick trong Auto Ghost\n- Tiếp tục ghost khi MP hồi không kịp"
     ],
     "locks": [
 		"0786875545",
@@ -157,6 +157,7 @@
 		"0982095545"
     ]
 }
+
 
 
 
