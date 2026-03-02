@@ -1,8 +1,8 @@
 {
-    "version": "3.9",
+    "version": "4.0",
     "info": [
-        "Information Version v%s:\n- Phục hồi sử dụng lại data gốc.",
-        "Thông Tin Phiên Bản v%s:\n- Phục hồi sử dụng lại data gốc."
+        "Information Version v%s:\n- Fix lỗi ghost random",
+        "Thông Tin Phiên Bản v%s:\n- Fix lỗi ghost random"
     ],
     "locks": [
 		"0786875545",
@@ -155,6 +155,7 @@
 		"0982095545"		
     ]
 }
+
 
 
 
