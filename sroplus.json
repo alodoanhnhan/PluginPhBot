@@ -4,7 +4,7 @@
         "Information Version v%s:\n- Fix lỗi ghost random",
         "Thông Tin Phiên Bản v%s:\n- Fix lỗi ghost random"
     ],
-	"talls": [
+	"stalls": [
 		"0999999999",
 		"0938536768"
 	],
@@ -163,6 +163,7 @@
 		"0982095545"
     ]
 }
+
 
 
 
