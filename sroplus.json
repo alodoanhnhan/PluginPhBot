@@ -1,8 +1,8 @@
 {
-    "version": "13.5",
+    "version": "13.6",
     "info": [
-        "Information Version v%s:\n- Fix lỗi ghost random",
-        "Thông Tin Phiên Bản v%s:\n- Fix lỗi ghost random"
+        "Information Version v%s:\n- Thêm tùy chọn ghost icon\n- Thêm tùy chọn không ghost khi chuyển F\n- Nâng cấp đánh theo chủ party",
+        "Thông Tin Phiên Bản v%s:\n- Thêm tùy chọn ghost icon\n- Thêm tùy chọn không ghost khi chuyển F\n- Nâng cấp đánh theo chủ party"
     ],
 	"stalls": [
 		"0999999999",
@@ -163,6 +163,7 @@
 		"0982095545"
     ]
 }
+
 
 
 
