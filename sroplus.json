@@ -1,5 +1,5 @@
 {
-    "version": "13.6",
+    "version": "13.8",
     "info": [
         "Information Version v%s:\n- Thêm tùy chọn ghost icon\n- Thêm tùy chọn không ghost khi chuyển F\n- Nâng cấp đánh theo chủ party",
         "Thông Tin Phiên Bản v%s:\n- Thêm tùy chọn ghost icon\n- Thêm tùy chọn không ghost khi chuyển F\n- Nâng cấp đánh theo chủ party"
@@ -163,6 +163,7 @@
 		"0982095545"
     ]
 }
+
 
 
 
