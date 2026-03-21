@@ -1,8 +1,8 @@
 {
-    "version": "13.8",
+    "version": "13.9",
     "info": [
-        "Information Version v%s:\n- Thêm tùy chọn Ghost Hide\n- Hỗ trợ ghost random cho ghost party\n- Thêm tùy chọn ghost icon\n- Thêm tùy chọn không ghost khi chuyển F\n- Nâng cấp đánh theo chủ party",
-        "Thông Tin Phiên Bản v%s:\n- Thêm tùy chọn Ghost Hide\n- Hỗ trợ ghost random cho ghost party\n- Thêm tùy chọn ghost icon\n- Thêm tùy chọn không ghost khi chuyển F\n- Nâng cấp đánh theo chủ party"
+        "Information Version v%s:\n- Fix lỗi Quản lý bots",
+        "Thông Tin Phiên Bản v%s:\n- Fix lỗi Quản lý bots"
     ],
 	"stalls": [
 		"0999999999",
