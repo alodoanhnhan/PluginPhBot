@@ -1,7 +1,7 @@
 {
-    "version": "10.2",
-    "version_farm": "10.2",
-    "version_job": "10.2",
+    "version": "10.3",
+    "version_farm": "10.3",
+    "version_job": "10.3",
     "info": [
         "Plugin [%s]: Found an upgrade version [v%s] of the plugin. Upgrade contents:\n-Fix lỗi lắng nghe sự kiện bấm thanh F trong Auto Ghost!",
         "Plugin [%s]: Đã tìm thấy một bản nâng cấp [v%s] của plugin, Nội dung cần lưu ý:\n-Fix lỗi lắng nghe sự kiện bấm thanh F trong Auto Ghost!"
