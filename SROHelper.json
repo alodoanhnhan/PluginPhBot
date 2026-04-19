@@ -1,5 +1,5 @@
 {
-    "version": "4.1",
+    "version": "4.2",
     "info": [
         "Information Version v%s:\n- Fix lỗi 2808",
         "Thông Tin Phiên Bản v%s:\n- Fix lỗi 2808"
@@ -21,7 +21,7 @@
 		"0349993623",
 		"0963886591",
 		"0948192286",
-		"0938536769"
+		"0938536768"
 	],
     "locks": [
 		"0786875545",
