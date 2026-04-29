@@ -1,8 +1,8 @@
 {
-    "version": "15.4",
+    "version": "15.5",
     "info": [
-        "Information Version v%s:\n- Fix lỗi C8/C10 khi khởi động mbot!",
-        "Thông Tin Phiên Bản v%s:\n- Fix lỗi C8/C10 khi khởi động mbot!"
+        "Information Version v%s:\n- Fix lỗi cất đồ/gửi đồ!",
+        "Thông Tin Phiên Bản v%s:\n- Fix lỗi cất đồ/gửi đồ!"
     ],
 	"stalls": [
 		"0999999999",
