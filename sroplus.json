@@ -1,15 +1,17 @@
 {
-    "version": "15.6",
+    "version": "15.7",
     "info": [
-        "Information Version v%s:\n- Nâng cấp gửi/cất áo xanh để farm",
-        "Thông Tin Phiên Bản v%s:\n- Nâng cấp gửi/cất áo xanh để farm"
+        "Information Version v%s:\n- Khoá Canh Hàng Tại SV Thổ Quỷ",
+        "Thông Tin Phiên Bản v%s:\n- Khoá Canh Hàng Tại SV Thổ Quỷ"
     ],
 	"stalls": [
 		"0999999999",
 		"067997152359",
 		"0938536768"
 	],
-	"lock_canh_hang": [],
+	"lock_canh_hang": [
+		"103.92.27.20"
+	],
 	"lock_auto_ghost": [],
 	"vips": [
 		"09820460840",
