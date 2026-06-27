@@ -1,8 +1,8 @@
 {
-    "version": "15.7",
+    "version": "15.8",
     "info": [
-        "Information Version v%s:\n- Khoá Canh Hàng Tại SV Thổ Quỷ",
-        "Thông Tin Phiên Bản v%s:\n- Khoá Canh Hàng Tại SV Thổ Quỷ"
+        "Information Version v%s:\n- Farm: Hỗ trợ giờ xanh xuyên đêm\n- Farm: Hết DCN,BSC sẽ lấy ở kho guild",
+        "Thông Tin Phiên Bản v%s:\n- Farm: Hỗ trợ giờ xanh xuyên đêm\n- Farm: Hết DCN,BSC sẽ lấy ở kho guild"
     ],
 	"stalls": [
 		"0938536768"
